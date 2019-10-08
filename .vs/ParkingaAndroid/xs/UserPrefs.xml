@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{308DA63C-C8D0-4CCC-8D0A-FEC3B80B40D3}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ParkingaAndroid/MainActivity.cs" Line="35" Column="38" />
+      <File FileName="ParkingaAndroid/obj/Debug/android/manifest/AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ParkingaAndroid" expanded="True">
+            <Node name="ParkingaAndroid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="Main.axml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ParkingaAndroid AndroidDesignerPreferredTheme="Theme.DeviceDefault" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.SelectDevice" />
+</Properties>
